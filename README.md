@@ -1,4 +1,4 @@
-# Security Policy Pack — Small Business
+# Security Policy Pack : Small Business
 
 Two sample information security policies written for a fictional small business (Adunni Fabrics & Fashion), as a GRC practice exercise. Both are designed to be realistic for a low-budget small business rather than a large enterprise, and both tie back to specific risks identified in a companion [risk assessment](https://github.com/Aishah205/risk-assessment-small-business).
 
