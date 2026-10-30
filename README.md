@@ -11,7 +11,7 @@ Two sample information security policies written for a fictional small business 
 
 ## Why these two
 
-Both policies address risks flagged in the risk assessment: shared logins, no MFA, weak/reused passwords, and lack of staff awareness. Writing the policy is the governance step that follows identifying the risk — the register says what's wrong, the policy says what staff are expected to do about it.
+Both policies address risks flagged in the risk assessment: shared logins, no MFA, weak/reused passwords, and lack of staff awareness. Writing the policy is the governance step that follows identifying the risk, the register says what's wrong, the policy says what staff are expected to do about it.
 
 ## Framework alignment
 
